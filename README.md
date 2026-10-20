@@ -47,6 +47,7 @@ Há ainda o **Bloco de Sustentação** (sono, ansiedade, desânimo, vida pessoal
 | Arquivo | Descrição |
 |---|---|
 | `Metodo_ALVOR_v1_0.docx` | O manual completo (editável) |
+| `Metodo_ALVOR_v1_0.pdf` | O manual completo em PDF (para ler e distribuir) |
 | `README.md` | Este arquivo |
 | `CITATION.cff` | Metadados para citação |
 | `.zenodo.json` | Metadados para o registro no Zenodo |
@@ -55,7 +56,7 @@ Há ainda o **Bloco de Sustentação** (sono, ansiedade, desânimo, vida pessoal
 
 ## Como usar
 
-1. Baixe o arquivo `Metodo_ALVOR_v1_0.docx`.
+1. Baixe o arquivo `Metodo_ALVOR_v1_0.pdf` (para ler e imprimir) ou o `Metodo_ALVOR_v1_0.docx` (se quiser editar).
 2. Leia a seção **"Antes de começar: o que ter em mãos"** e junte os documentos oficiais (edital, Matriz de Referência, provas anteriores etc.).
 3. Escolha a sua porta (A ou B) na Fase 1 e siga as fases em ordem.
 4. Troque os campos entre colchetes pelos seus dados e rode os prompts na IA indicada em cada um.
