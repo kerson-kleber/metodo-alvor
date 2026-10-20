@@ -1,5 +1,14 @@
 # Histórico de versões
 
+## v1.0.1 — 19 de outubro de 2026
+
+Adiciona o DOI do Zenodo ao README, CITATION e manual.
+
+- README: selo do DOI ativado e "Como citar" preenchido
+- CITATION.cff: campo `doi` acrescentado
+- Manual: DOI e "Como citar" preenchidos na nota da edição; registro de versões atualizado
+- Sem mudanças no conteúdo das dez fases
+
 ## v1.0.0 — 19 de outubro de 2026
 
 Primeira edição.

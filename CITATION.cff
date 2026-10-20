@@ -3,6 +3,7 @@ message: "Se você usar este método, por favor cite-o como abaixo."
 type: software
 title: "Método A.L.V.O.R. — Estudar para o ENEM em casa sem se perder pelo caminho: Manual de Método e Fichário de Prompts para Estudantes do ENEM"
 version: "v1.0.0"
+doi: 10.5281/zenodo.23486871
 date-released: "2026-10-19"
 authors:
   - family-names: "Pereira"

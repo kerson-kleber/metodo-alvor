@@ -6,9 +6,7 @@
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-<!-- DEPOIS DO ZENODO: apague este comentário e troque XXXXXXXX pelo número do DOI.
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXX)
--->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23486871.svg)](https://doi.org/10.5281/zenodo.23486871)
 
 Manual de método e fichário de prompts para estudantes que se preparam para o ENEM, especialmente quem estuda em casa, sem cursinho, e muitas vezes sem saber que rumo tomar. **Radicalmente gratuito, hoje e sempre.**
 
@@ -72,9 +70,9 @@ Esta obra está licenciada sob a **Creative Commons Atribuição–NãoComercial
 
 ## Como citar
 
-Pereira, K. K. E. (2026). *Método A.L.V.O.R. — Estudar para o ENEM em casa sem se perder pelo caminho: Manual de Método e Fichário de Prompts para Estudantes do ENEM* (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXXX
+Pereira, K. K. E. (2026). *Método A.L.V.O.R. — Estudar para o ENEM em casa sem se perder pelo caminho: Manual de Método e Fichário de Prompts para Estudantes do ENEM* (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23486871
 
-*(O número do DOI será preenchido após o registro no Zenodo. O GitHub também oferece o botão "Cite this repository", a partir do arquivo `CITATION.cff`.)*
+*(O GitHub também oferece o botão "Cite this repository", a partir do arquivo `CITATION.cff`.)*
 
 ## Autoria
 
