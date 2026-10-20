@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "Se você usar este método, por favor cite-o como abaixo."
+type: software
+title: "Método A.L.V.O.R. — Estudar para o ENEM em casa sem se perder pelo caminho: Manual de Método e Fichário de Prompts para Estudantes do ENEM"
+version: "v1.0.0"
+date-released: "2026-10-19"
+authors:
+  - family-names: "Pereira"
+    given-names: "Kerson Kleber Espínola"
+    orcid: "https://orcid.org/0000-0001-8556-4195"
+license: CC-BY-NC-SA-4.0
+abstract: >-
+  Manual de método e fichário de prompts para estudantes que se preparam para
+  o ENEM, especialmente quem estuda em casa, sem cursinho. Organiza o percurso
+  em dez fases (Apontar o alvo, Levantar as lacunas, Vias de estudo, Operar em
+  ciclos, Reavaliar e reajustar), com prompts para IA generalista e IA de
+  corpus fechado, duas portas de entrada (quem ainda não sabe o curso e quem
+  já sabe), trilha para estudo com TDAH, adaptações para estudantes surdos e
+  com deficiência, e Bloco de Sustentação. Material gratuito, licenciado sob
+  CC BY-NC-SA 4.0.
+keywords:
+  - ENEM
+  - método de estudo
+  - estudo autônomo
+  - inteligência artificial
+  - prompts
+  - educação
+  - acessibilidade
+  - acesso aberto
